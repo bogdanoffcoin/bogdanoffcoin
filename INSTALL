@@ -1,0 +1,9 @@
+Building Bogdanoffcoin
+
+See doc/readme-qt.rst for instructions on building Bogdanoffcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bogdanoffcoin.
+
+See doc/build-*.txt for instructions on building bogdanoffcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bogdanoffcoin.
